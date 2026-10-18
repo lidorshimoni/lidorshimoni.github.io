@@ -1,3 +1,2 @@
 # lidorshimoni.github.io
-
-Design-preview deployment of the portfolio redesign (PR preview). Not production.
+Staging preview for lidorshimoni.com PR builds. Not indexed (robots disallow-all).
