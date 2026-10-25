@@ -1,0 +1,10 @@
+:HL["/_next/static/chunks/3o6o_0gx9628n.css","style"]
+:HL["/_next/static/media/37f34e4fcce0f2d4-s.p.3dosikwwiz7p4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8ec783ae88469012-s.p.0twlw20dvfl-2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f92d037bf82f7954-s.p.00z8i_5uv8-30.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"id","t":"d","k":"sys_62","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"projects","h":96,"c":"$Q2"}]]
+0:{"b":"elN_qD1bbgC_1_3PawLim","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
